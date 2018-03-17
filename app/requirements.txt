@@ -1,3 +1,4 @@
 aiotg
 invoke
 fabric3
+requests

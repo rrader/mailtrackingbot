@@ -1,0 +1,1 @@
+"https://api.aftership.com/v4/trackings/:slug/:tracking_number"
